@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vedant Singh</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India.</h3>
-<img align=“right” alt=“coding” width=“400” src=“data-science-giphy.gif”
+<img align=“right” alt=“coding” width=“400” src=“[data-science-giphy.gif](https://cdn-cjmik.nitrocdn.com/UjszoEMIGzQLBmRYICliaPmdTnvQlovN/assets/images/optimized/rev-a1dc379/wp-content/uploads/2019/10/data-science-giphy.gif)”
 
 - 🌱 I’m currently learning **Deep Learning, Computer Vision**
 
