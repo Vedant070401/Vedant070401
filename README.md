@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vedant Singh</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India.</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://cdn-cjmik.nitrocdn.com/UjszoEMIGzQLBmRYICliaPmdTnvQlovN/assets/images/optimized/rev-a1dc379/wp-content/uploads/2019/10/data-science-giphy.gif”
+<img align=“right” alt=“coding” width=“400” src=“￼”
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant070401&label=Profile%20views&color=0e75b6&style=flat" alt="vedant070401" /> </p>
+
+- 🔭 I’m currently working on **Data Vi**
 
 - 🌱 I’m currently learning **Deep Learning, Computer Vision**
 
@@ -23,3 +26,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant070401&show_icons=true&locale=en&layout=compact" alt="vedant070401" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant070401&" alt="vedant070401" /></p>
+
