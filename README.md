@@ -1,5 +1,7 @@
 # 💫 About Me:
+<img align="right" alt="data scientist" width="300" src="https://aryng.com/assets/img/ani2.gif">
 👋 Hi there, I'm Vedant Singh!<br><br>📊 I'm a data science enthusiast and Python developer who loves to explore and visualize complex data sets to uncover insights and solve problems.<br><br>🎓 My passion for data science began while studying CSE in college, and I've been honing my skills ever since.<br><br>🌟 I'm constantly seeking out new data sets and learning new techniques to improve my data analysis and visualization abilities.<br><br>💻 On my GitHub profile, you'll find a collection of data science projects that I've created using Python. These projects cover a variety of topics, including  e.g. machine learning, data visualization, Image processing,Exploratory Data Analysis].<br><br>🤝 I'm always looking for new project ideas and collaborations, so feel free to reach out if you have any suggestions!<br><br>⚡ Fun fact Oh, by all means, I declare that I have the most outstanding marketing and content writing skills! I'm sure the world is just dying to bask in the glory of mine unrivaled abilities.<br><br>🙏 Thanks for checking out my profile, and I hope you find my projects useful and informative!
+
 
 
 ## 🌐 Socials:
